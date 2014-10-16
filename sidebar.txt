@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cjn:home|Door43 (cjn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cjn|d43-cjn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cjn/archive/master.zip|d43-cjn.zip]]
+
+**Recent Changes**
+{{changes>ns = cjn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cjn|Ethnologue data]]
+
